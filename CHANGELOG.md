@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.7.9 (2026-07-14)
+
+### Bug Fixes and Other Changes
+
+ * Add Rabi Oscillations textbook notebook
+
 ## v1.7.8 (2026-06-23)
 
 ### Bug Fixes and Other Changes
